@@ -7,10 +7,10 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #ffb6c1; /* LightPink */
+            color: #8b4513; /* SaddleBrown */
         }
         .header {
-            background-color: #ffcccb; /* Example HEX */
-            color: rgb(0, 102, 204); /* Example RGB */
             padding: 20px;
             text-align: center;
         }
