@@ -7,10 +7,12 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffb6c1; /* LightPink */
-            color: #8b4513; /* SaddleBrown */
+            background-color: #ffffff; /* White background */
+            color: #8b4513; /* SaddleBrown text color */
         }
         .header {
+            background-color: #ffb6c1; /* LightPink background */
+            color: rgb(139, 69, 19); /* SaddleBrown text color */
             padding: 20px;
             text-align: center;
         }
